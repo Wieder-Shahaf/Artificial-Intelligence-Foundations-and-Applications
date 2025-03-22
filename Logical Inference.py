@@ -1,5 +1,5 @@
 from utils import *
-ids = ["208912675", "318159506"]
+ids = ["000000000", "000000000"]
 
 
 class GringottsController:
